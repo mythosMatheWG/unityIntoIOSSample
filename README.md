@@ -1,2 +1,2 @@
 # unityIntoIOSSample
-Sample project how to integrate Unity in a native iOS App
+Sample project how to integrate Unity5 into a native iOS App
